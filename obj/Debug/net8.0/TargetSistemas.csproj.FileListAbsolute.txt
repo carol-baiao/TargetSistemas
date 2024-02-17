@@ -1,0 +1,15 @@
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\bin\Debug\net8.0\TargetSistemas.exe
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\bin\Debug\net8.0\TargetSistemas.deps.json
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\bin\Debug\net8.0\TargetSistemas.runtimeconfig.json
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\bin\Debug\net8.0\TargetSistemas.dll
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\bin\Debug\net8.0\TargetSistemas.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.AssemblyInfoInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.AssemblyInfo.cs
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.sourcelink.json
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.dll
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\refint\TargetSistemas.dll
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.pdb
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\TargetSistemas.genruntimeconfig.cache
+C:\Users\carol\OneDrive\Área de Trabalho\Target\TargetSistemas\obj\Debug\net8.0\ref\TargetSistemas.dll
